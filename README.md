@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Mesa</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Fullstack developer from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altair3542" alt="altair3542" /></a> </p>
 
